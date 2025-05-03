@@ -216,7 +216,3 @@ Adding a new payment method requires no changes to the `PaymentProcessor` class.
 | High-level depends on low-level | Both depend on abstractions |
 | Hard to extend              | Flexible and modular          |
 | Tightly coupled             | Loosely coupled               |
-
----
-
-This consolidated document can now be saved as a single `.md` file or converted into a downloadable format like PDF. Let me know if you'd like further assistance!
