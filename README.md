@@ -14,6 +14,15 @@ Each folder is dedicated to one SOLID principle and contains:
 
 | Principle | Description | Folder |
 |----------|-------------|--------|
+| S - SRP  | Single Responsibility: Each class does one thing well | [SRP_SingleResponsibility](./SRP_SingleResponsibility) |
+| O - OCP  | Open/Closed: Open for extension, closed for modification | [OCP_OpenClosed](./OCP_OpenClosed) |
+| L - LSP  | Liskov Substitution: Derived types must be usable as base types | [LSP_LiskovSubstitution](./LSP_LiskovSubstitution) |
+| I - ISP  | Interface Segregation: No client should depend on what it doesn't use | [ISP_InterfaceSegregation](./ISP_InterfaceSegregation) |
+| D - DIP  | Dependency Inversion: High-level modules shouldn't depend on low-level modules | [DIP_DependencyInversion](./DIP_DependencyInversion) |
+## 👣 Principles Covered
+
+| Principle | Description | Folder |
+|----------|-------------|--------|
 | S - SRP  | Single Responsibility: Each class does one thing well | `SRP_SingleResponsibility` |
 | O - OCP  | Open/Closed: Open for extension, closed for modification | `OCP_OpenClosed` |
 | L - LSP  | Liskov Substitution: Derived types must be usable as base types | `LSP_LiskovSubstitution` |
