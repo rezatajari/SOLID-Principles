@@ -1,6 +1,6 @@
-﻿## 🔧 DIP (Dependency Inversion Principle)
+﻿## DIP (Dependency Inversion Principle)
 
-### 🧠 **Concept Overview**
+### **Concept Overview**
 
 In real life, imagine you run a restaurant. Orders can go:
 
@@ -15,7 +15,7 @@ This is the essence of **Dependency Inversion**:
 
 ---
 
-### ❌ **What Was the Problem?**
+### **What Was the Problem?**
 
 Originally, your system used:
 
@@ -32,7 +32,7 @@ class CloudOrderService { void CloudOrder() { ... } }
 
 ---
 
-### ✅ **How We Solved It**
+### **How We Solved It**
 
 You created a shared abstraction:
 
@@ -51,7 +51,7 @@ Now, the main system can depend on `IOrderSender` instead of knowing the details
 
 ---
 
-### 💡 **Benefits**
+### **Benefits**
 
 * Loose coupling: You can swap implementations easily.
 * Testability: Mock `IOrderSender` in tests.

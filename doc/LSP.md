@@ -1,6 +1,6 @@
-﻿## 🍪 L – Liskov Substitution Principle (LSP)
+﻿## L – Liskov Substitution Principle (LSP)
 
-### 🔍 **Overview**
+### **Overview**
 
 LSP states that **subtypes must be replaceable for their base types** without altering the correctness of the program.
 If `A` is a subtype of `B`, then `B`'s consumers should not know the difference when `A` is used.
@@ -14,7 +14,7 @@ The `Cookie()` method throws an exception if it encounters a `DogCookie`, which 
 
 This is risky and tightly couples behavior to type-checking, which breaks polymorphism.
 
-### ✅ **The Solution**
+### **The Solution**
 
 Separate the behavior for human cookies and pet cookies:
 
@@ -27,7 +27,7 @@ This design keeps behavior clear and safe:
 * Human-oriented systems work only with `ICookie`.
 * Pet-related logic can use `IPetCookie` without interfering with human logic.
 
-### 🧠 **Key Takeaways**
+### **Key Takeaways**
 
 * Subtypes must honor the expectations set by the base type.
 * Don't introduce exceptions or break normal flow in derived classes.

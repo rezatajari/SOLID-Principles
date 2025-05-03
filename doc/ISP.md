@@ -1,4 +1,4 @@
-﻿## ✅ ISP — Interface Segregation Principle
+﻿## ISP — Interface Segregation Principle
 
 ### 📌 Concept Overview
 
@@ -10,7 +10,7 @@ This means: large, all-in-one interfaces should be split into smaller, specific 
 
 ---
 
-### ❌ Problem (Before ISP)
+### Problem (Before ISP)
 
 In the `IWorker` interface, we defined four methods:
 
@@ -29,7 +29,7 @@ Each class is burdened with irrelevant methods, making the code harder to read, 
 
 ---
 
-### ✅ Solution (After ISP)
+### Solution (After ISP)
 
 Split `IWorker` into specific, minimal interfaces:
 
@@ -48,7 +48,7 @@ Each class only knows and uses **exactly what it needs**. The design is cleaner,
 
 ---
 
-### 🔑 Key Takeaways
+### Key Takeaways
 
 | Before ISP                    | After ISP                                           |
 | ----------------------------- | --------------------------------------------------- |
