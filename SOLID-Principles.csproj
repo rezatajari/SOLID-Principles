@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>SOLID_Principles</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DIP_DependencyInversion\" />
+    <Folder Include="ISP_InterfaceSegregation\" />
+    <Folder Include="LSP_LiskovSubstitution\" />
+    <Folder Include="OCP_OpenClosed\" />
+    <Folder Include="SRP_SingleResponsibility\" />
+  </ItemGroup>
+
+</Project>
