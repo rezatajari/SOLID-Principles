@@ -1,8 +1,4 @@
-﻿Understood. Here's your **SRP documentation** as **pure conceptual text**, structured exactly as you requested:
-
----
-
-## **Single Responsibility Principle (SRP)**
+﻿## **Single Responsibility Principle (SRP)**
 
 ### **Overview of Concept**
 
