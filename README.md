@@ -1,4 +1,4 @@
-# SOLID Principles in C# - Challenge-Based Learning
+# SOLID Principles in C#
 
 Welcome to my SOLID training repository — designed for practical learning and real-world thinking.  
 Each folder is dedicated to one SOLID principle and contains:
