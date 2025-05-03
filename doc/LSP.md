@@ -5,7 +5,7 @@
 LSP states that **subtypes must be replaceable for their base types** without altering the correctness of the program.
 If `A` is a subtype of `B`, then `B`'s consumers should not know the difference when `A` is used.
 
-### 💥 **The Problem**
+### **The Problem**
 
 In our cookie shop, we mixed up a `DogCookie` with regular cookies for humans.
 The `Cookie()` method throws an exception if it encounters a `DogCookie`, which violates LSP:

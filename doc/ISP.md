@@ -1,6 +1,6 @@
 ﻿## ISP — Interface Segregation Principle
 
-### 📌 Concept Overview
+### Concept Overview
 
 The Interface Segregation Principle (ISP) is the fourth principle in SOLID. It says:
 
@@ -24,7 +24,7 @@ Then, we created two worker roles:
 * `Chef` only **cooks**, but is forced to implement and throw `NotImplementedException()` for the rest.
 * `Waiter` only **serves and cleans**, but is forced to handle cooking and inventory, even though they don’t.
 
-➡️ **Problem**:
+ **Problem**:
 Each class is burdened with irrelevant methods, making the code harder to read, maintain, and test. It violates separation of responsibilities and introduces fragility.
 
 ---
@@ -43,7 +43,7 @@ Now:
 * `NewChef` implements `ICook` and `IManageInventory`.
 * `NewWaiter` implements `IServe` and `IClean`.
 
-➡️ **Result**:
+ **Result**:
 Each class only knows and uses **exactly what it needs**. The design is cleaner, more modular, and future-proof.
 
 ---
