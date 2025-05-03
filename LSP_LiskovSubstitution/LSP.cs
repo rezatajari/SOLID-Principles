@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SOLID_Principles.LSP_LiskovSubstitution
 {
+    // LSP failed
     internal class LSP
     {
-        // LSP failed
         void Cookie(string cookieType)
         {
             if (cookieType == "chocolate chip")
