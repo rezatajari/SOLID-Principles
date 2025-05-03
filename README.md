@@ -19,7 +19,12 @@ Each folder is dedicated to one SOLID principle and contains:
 | L - LSP  | Liskov Substitution: Derived types must be usable as base types | [Documentation](https://github.com/rezatajari/SOLID-Principles/blob/master/doc/LSP.md) |
 | I - ISP  | Interface Segregation: No client should depend on what it doesn't use | [Documentation](https://github.com/rezatajari/SOLID-Principles/blob/master/doc/ISP.md) |
 | D - DIP  | Dependency Inversion: High-level modules shouldn't depend on low-level modules | [Documentation](https://github.com/rezatajari/SOLID-Principles/blob/master/doc/DIP.md) |
-## 🧠 Learning Style
+
+---
+
+### 🔗 Lead Link
+
+For a complete overview of all SOLID principles, visit the [SOLID Overview](https://github.com/rezatajari/SOLID-Principles/blob/master/doc/SOLID%20Overview.md).
 
 This repo is not about copying answers.  
 It's about **thinking like a software designer**:  
