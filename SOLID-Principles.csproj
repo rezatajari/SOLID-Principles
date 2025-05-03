@@ -12,7 +12,6 @@
     <Folder Include="DIP_DependencyInversion\" />
     <Folder Include="ISP_InterfaceSegregation\" />
     <Folder Include="LSP_LiskovSubstitution\" />
-    <Folder Include="OCP_OpenClosed\" />
   </ItemGroup>
 
 </Project>
