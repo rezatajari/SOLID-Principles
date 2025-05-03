@@ -12,16 +12,13 @@ Each folder is dedicated to one SOLID principle and contains:
 
 ## 👣 Principles Covered
 
-| Principle | Description | Folder |
-|----------|-------------|--------|
-| S - SRP  | Single Responsibility: Each class does one thing well | `SRP_SingleResponsibility` |
-| O - OCP  | Open/Closed: Open for extension, closed for modification | `OCP_OpenClosed` |
-| L - LSP  | Liskov Substitution: Derived types must be usable as base types | `LSP_LiskovSubstitution` |
-| I - ISP  | Interface Segregation: No client should depend on what it doesn't use | `ISP_InterfaceSegregation` |
-| D - DIP  | Dependency Inversion: High-level modules shouldn't depend on low-level modules | `DIP_DependencyInversion` |
-
----
-
+| Principle | Description | Documentation |
+|----------|-------------|----------------|
+| S - SRP  | Single Responsibility: Each class does one thing well | [Documentation](https://github.com/rezatajari/SOLID-Principles/blob/master/doc/SRP.md) |
+| O - OCP  | Open/Closed: Open for extension, closed for modification | [Documentation](https://github.com/rezatajari/SOLID-Principles/blob/master/doc/OCP.md) |
+| L - LSP  | Liskov Substitution: Derived types must be usable as base types | [Documentation](https://github.com/rezatajari/SOLID-Principles/blob/master/doc/LSP.md) |
+| I - ISP  | Interface Segregation: No client should depend on what it doesn't use | [Documentation](https://github.com/rezatajari/SOLID-Principles/blob/master/doc/ISP.md) |
+| D - DIP  | Dependency Inversion: High-level modules shouldn't depend on low-level modules | [Documentation](https://github.com/rezatajari/SOLID-Principles/blob/master/doc/DIP.md) |
 ## 🧠 Learning Style
 
 This repo is not about copying answers.  
