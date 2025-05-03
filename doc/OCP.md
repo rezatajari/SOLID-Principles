@@ -1,8 +1,4 @@
-﻿Yes, your OCP implementation is correct and clearly demonstrates the principle. Below is the **OCP documentation**, following the same structure as SRP:
-
----
-
-## **Open/Closed Principle (OCP)**
+﻿## **Open/Closed Principle (OCP)**
 
 ### **Overview of Concept**
 

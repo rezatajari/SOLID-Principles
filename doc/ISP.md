@@ -1,8 +1,4 @@
-﻿Your implementation of **ISP (Interface Segregation Principle)** is correct and clean. Here's your documentation-style explanation for your `ISP` section:
-
----
-
-## ✅ ISP — Interface Segregation Principle
+﻿## ✅ ISP — Interface Segregation Principle
 
 ### 📌 Concept Overview
 

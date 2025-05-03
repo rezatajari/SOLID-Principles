@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SOLID_Principles.SRP_SingleResponsibility
+namespace SOLID_Principles
 {
 
     internal class SRP

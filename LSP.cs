@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SOLID_Principles.LSP_LiskovSubstitution
+namespace SOLID_Principles
 {
     // LSP failed
     internal class LSP

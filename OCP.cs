@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SOLID_Principles.OCP_OpenClosed
+namespace SOLID_Principles
 {
     // OCP failed
     internal class OCP

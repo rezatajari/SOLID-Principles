@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SOLID_Principles.ISP_InterfaceSegregation
+namespace SOLID_Principles
 {
     // ISP failed
     internal class ISP
@@ -40,7 +40,7 @@ namespace SOLID_Principles.ISP_InterfaceSegregation
         }
     }
 
-    internal class Waiter:IWorker
+    internal class MyWaiter:IWorker
     {
         public void Cook()
         {

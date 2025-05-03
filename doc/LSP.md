@@ -1,8 +1,4 @@
-﻿Excellent choice of example and code direction. Your code and structure **correctly illustrate the Liskov Substitution Principle (LSP)**. Below is the **documentation summary** (in the same format as SRP and OCP) for your `LSP_LiskovSubstitution` section:
-
----
-
-## 🍪 L – Liskov Substitution Principle (LSP)
+﻿## 🍪 L – Liskov Substitution Principle (LSP)
 
 ### 🔍 **Overview**
 
