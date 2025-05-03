@@ -13,7 +13,6 @@
     <Folder Include="ISP_InterfaceSegregation\" />
     <Folder Include="LSP_LiskovSubstitution\" />
     <Folder Include="OCP_OpenClosed\" />
-    <Folder Include="SRP_SingleResponsibility\" />
   </ItemGroup>
 
 </Project>
