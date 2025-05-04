@@ -19,7 +19,7 @@ In the `IWorker` interface, we defined four methods:
 * `Clean()`
 * `ManageInventory()`
 
-Then, we created two worker roles:
+Then, I created two worker roles:
 
 * `Chef` only **cooks**, but is forced to implement and throw `NotImplementedException()` for the rest.
 * `Waiter` only **serves and cleans**, but is forced to handle cooking and inventory, even though they don’t.

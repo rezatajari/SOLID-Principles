@@ -17,7 +17,7 @@ This is the essence of **Dependency Inversion**:
 
 ### **What Was the Problem?**
 
-Originally, your system used:
+Originally, my system used:
 
 ```csharp
 class KitchenOrderService { void Order() { ... } }
@@ -32,9 +32,9 @@ class CloudOrderService { void CloudOrder() { ... } }
 
 ---
 
-### **How We Solved It**
+### **How I Solved It**
 
-You created a shared abstraction:
+I created a shared abstraction:
 
 ```csharp
 interface IOrderSender { void SendOrder(); }

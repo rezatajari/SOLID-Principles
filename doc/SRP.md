@@ -22,9 +22,9 @@ In code, this results in:
 
 ---
 
-### **Your Design and Implementation: The Solution**
+### **My Design and Implementation: The Solution**
 
-You separated the concerns into three different roles — cooking, serving, and payment handling — each represented by a class with a single focus.
+I separated the concerns into three different roles — cooking, serving, and payment handling — each represented by a class with a single focus.
 This way:
 
 * Each part of your program can evolve independently
@@ -39,6 +39,3 @@ This structure reflects real-life department separation in a business, where rol
 
 Your implementation demonstrates SRP by isolating unrelated behaviors into their own components. This aligns with good software architecture and real-world business practices where responsibilities are clearly divided for better efficiency and adaptability.
 
----
-
-Would you like the same format for the OCP section next?

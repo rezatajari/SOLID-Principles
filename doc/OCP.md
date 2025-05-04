@@ -22,9 +22,9 @@ Problems include:
 
 ---
 
-### **Your Design and Implementation: The Solution**
+### **My Design and Implementation: The Solution**
 
-You solved this by creating an interface `IFood` with a `Cook()` method, and then implementing it for each food item: `Pizza`, `Burger`, `Salad`.
+I solved this by creating an interface `IFood` with a `Cook()` method, and then implementing it for each food item: `Pizza`, `Burger`, `Salad`.
 
 Now:
 
@@ -36,8 +36,6 @@ Now:
 
 ### **Summary**
 
-Your implementation reflects a clean separation of concerns and protects your code from unintended side effects. The `OCP` design allows you to scale functionality by extension, not modification — which is a core strength of flexible and maintainable systems.
+My implementation reflects a clean separation of concerns and protects your code from unintended side effects. The `OCP` design allows you to scale functionality by extension, not modification — which is a core strength of flexible and maintainable systems.
 
----
 
-Would you like me to help you write a short project-wide README summary of these principles as a table of contents?
