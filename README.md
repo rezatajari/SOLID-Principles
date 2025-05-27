@@ -3,14 +3,14 @@
 Welcome to my SOLID training repository — designed for practical learning and real-world thinking.  
 Each folder is dedicated to one SOLID principle and contains:
 
-- 💡 A real-world analogy (e.g. banking, reporting, device control)
-- 🧩 A challenge to implement
-- 🔍 A C# solution applying OOP tools (interfaces, abstractions, etc.)
-- 🧠 My own notes and decisions
+-  A real-world analogy (e.g. banking, reporting, device control)
+-  A challenge to implement
+-  A C# solution applying OOP tools (interfaces, abstractions, etc.)
+-  My own notes and decisions
 
 ---
 
-## 👣 Principles Covered
+##  Principles Covered
 
 | Principle | Description | Documentation |
 |----------|-------------|----------------|
@@ -22,7 +22,7 @@ Each folder is dedicated to one SOLID principle and contains:
 
 ---
 
-### 🔗 Lead Link
+###  Lead Link
 
 For a complete overview of all SOLID principles, visit the [SOLID Overview](https://github.com/rezatajari/SOLID-Principles/blob/master/doc/SOLID%20Overview.md).
 
